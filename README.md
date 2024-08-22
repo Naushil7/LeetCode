@@ -29,6 +29,7 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Naushil7/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -37,4 +38,9 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naushil7/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
