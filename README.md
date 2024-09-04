@@ -6,6 +6,7 @@ A collection of LeetCode solved questions
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Naushil7/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/Naushil7/LeetCode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Naushil7/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Naushil7/LeetCode/tree/master/0577-employee-bonus) |
