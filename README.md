@@ -69,13 +69,23 @@ A collection of LeetCode solved questions
 | ------- |
 | [0001-two-sum](https://github.com/Naushil7/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/Naushil7/LeetCode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/Naushil7/LeetCode/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/Naushil7/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/Naushil7/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Naushil7/LeetCode/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Naushil7/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
