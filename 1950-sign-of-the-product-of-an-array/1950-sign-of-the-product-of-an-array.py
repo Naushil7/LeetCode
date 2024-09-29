@@ -7,7 +7,7 @@ class Solution(object):
         res = 1
         for i in range(len(nums)):
             res = res * nums[i]
-            print(res)
+            # print(res)
         
         if res > 0:
             return 1
