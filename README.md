@@ -63,6 +63,7 @@ A collection of LeetCode solved questions
 | [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Naushil7/LeetCode/tree/master/0066-plus-one) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Naushil7/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2491-smallest-even-multiple](https://github.com/Naushil7/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode solved questions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naushil7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Naushil7/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Naushil7/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
