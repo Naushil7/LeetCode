@@ -4,5 +4,12 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        return s.lower()
+        res = ""
+        for i in range(len(s)):
+            if 65 <= ord(s[i]) <= 90:
+                res += chr(ord(s[i])+32)
+            else:
+                res += s[i]
+
+        return res
         
