@@ -62,6 +62,7 @@ A collection of LeetCode solved questions
 | [0009-palindrome-number](https://github.com/Naushil7/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Naushil7/LeetCode/tree/master/0066-plus-one) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Naushil7/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Naushil7/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/Naushil7/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Array
