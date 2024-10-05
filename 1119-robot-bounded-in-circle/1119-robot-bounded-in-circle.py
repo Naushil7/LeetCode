@@ -27,8 +27,8 @@ class Solution(object):
             elif i == "R" and direction == 1:
                 direction = 4
 
-            print(direction)
-            print(start)
+            # print(direction)
+            # print(start)
 
         if start == [0,0] or direction != 1:
             return True
