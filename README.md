@@ -8,6 +8,7 @@ A collection of LeetCode solved questions
 | ------- |
 | [0175-combine-two-tables](https://github.com/Naushil7/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Naushil7/LeetCode/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/Naushil7/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Naushil7/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/Naushil7/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Naushil7/LeetCode/tree/master/0196-delete-duplicate-emails) |
