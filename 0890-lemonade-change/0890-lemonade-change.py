@@ -16,10 +16,6 @@ class Solution(object):
         count_10 = 0
         count_20 = 0
         for i in bills:
-            print(count_5)
-            print(count_10)
-            print(count_20)
-            print("\n")
             if i == 5:
                 count_5 += 1
             elif i == 10:
