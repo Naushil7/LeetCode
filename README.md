@@ -63,6 +63,7 @@ A collection of LeetCode solved questions
 | [0009-palindrome-number](https://github.com/Naushil7/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Naushil7/LeetCode/tree/master/0066-plus-one) |
+| [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/Naushil7/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Naushil7/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Naushil7/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode solved questions
 | [0682-baseball-game](https://github.com/Naushil7/LeetCode/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/Naushil7/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/Naushil7/LeetCode/tree/master/0932-monotonic-array) |
+| [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Naushil7/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Naushil7/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Naushil7/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -118,6 +120,7 @@ A collection of LeetCode solved questions
 | ------- |
 | [0242-valid-anagram](https://github.com/Naushil7/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Naushil7/LeetCode/tree/master/0389-find-the-difference) |
+| [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Naushil7/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Naushil7/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## String Matching
@@ -150,4 +153,5 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Naushil7/LeetCode/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
