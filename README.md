@@ -64,6 +64,7 @@ A collection of LeetCode solved questions
 | [0009-palindrome-number](https://github.com/Naushil7/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Naushil7/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Naushil7/LeetCode/tree/master/0067-add-binary) |
 | [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/Naushil7/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Naushil7/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -101,6 +102,7 @@ A collection of LeetCode solved questions
 | [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naushil7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Naushil7/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Naushil7/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Naushil7/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Naushil7/LeetCode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Naushil7/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -117,6 +119,7 @@ A collection of LeetCode solved questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Naushil7/LeetCode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Naushil7/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode solved questions
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Naushil7/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Naushil7/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Naushil7/LeetCode/tree/master/0682-baseball-game) |
 | [1119-robot-bounded-in-circle](https://github.com/Naushil7/LeetCode/tree/master/1119-robot-bounded-in-circle) |
