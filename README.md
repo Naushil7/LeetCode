@@ -64,6 +64,7 @@ A collection of LeetCode solved questions
 | [0009-palindrome-number](https://github.com/Naushil7/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Naushil7/LeetCode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Naushil7/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Naushil7/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Naushil7/LeetCode/tree/master/0067-add-binary) |
 | [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -168,4 +169,8 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Naushil7/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Naushil7/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
