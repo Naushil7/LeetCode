@@ -110,6 +110,7 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Naushil7/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naushil7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Naushil7/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Naushil7/LeetCode/tree/master/0058-length-of-last-word) |
@@ -181,4 +182,8 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Naushil7/LeetCode/tree/master/0050-powx-n) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Naushil7/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
