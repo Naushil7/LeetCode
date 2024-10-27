@@ -87,6 +87,7 @@ A collection of LeetCode solved questions
 | [0001-two-sum](https://github.com/Naushil7/LeetCode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Naushil7/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Naushil7/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Naushil7/LeetCode/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/Naushil7/LeetCode/tree/master/0890-lemonade-change) |
@@ -104,6 +105,7 @@ A collection of LeetCode solved questions
 | ------- |
 | [0001-two-sum](https://github.com/Naushil7/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Naushil7/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Naushil7/LeetCode/tree/master/0389-find-the-difference) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Naushil7/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -169,6 +171,7 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Naushil7/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Naushil7/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/Naushil7/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Naushil7/LeetCode/tree/master/1791-richest-customer-wealth) |
