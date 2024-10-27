@@ -13,7 +13,7 @@ class Solution(object):
                     row.append(i)
                     column.append(j) 
 
-        print(row, column)
+        # print(row, column)
 
         for i in range(len(matrix)):
             for j in range(len(matrix[0])):
