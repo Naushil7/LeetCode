@@ -85,6 +85,7 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naushil7/LeetCode/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/Naushil7/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Naushil7/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Naushil7/LeetCode/tree/master/0682-baseball-game) |
@@ -158,6 +159,7 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Naushil7/LeetCode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Naushil7/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Naushil7/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Naushil7/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Naushil7/LeetCode/tree/master/0682-baseball-game) |
@@ -166,6 +168,7 @@ A collection of LeetCode solved questions
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Naushil7/LeetCode/tree/master/0054-spiral-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Naushil7/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/Naushil7/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Naushil7/LeetCode/tree/master/1791-richest-customer-wealth) |
