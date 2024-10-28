@@ -187,9 +187,14 @@ A collection of LeetCode solved questions
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Naushil7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Naushil7/LeetCode/tree/master/0050-powx-n) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Naushil7/LeetCode/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Naushil7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
