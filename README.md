@@ -189,6 +189,7 @@ A collection of LeetCode solved questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Naushil7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Naushil7/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -197,4 +198,5 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Naushil7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
