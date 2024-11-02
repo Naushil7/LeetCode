@@ -86,6 +86,7 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naushil7/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Naushil7/LeetCode/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Naushil7/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Naushil7/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -129,6 +130,7 @@ A collection of LeetCode solved questions
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Naushil7/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naushil7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/Naushil7/LeetCode/tree/master/1894-merge-strings-alternately) |
