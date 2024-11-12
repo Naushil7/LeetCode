@@ -97,6 +97,7 @@ A collection of LeetCode solved questions
 | [0890-lemonade-change](https://github.com/Naushil7/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/Naushil7/LeetCode/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/Naushil7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Naushil7/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Naushil7/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Naushil7/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -136,6 +137,7 @@ A collection of LeetCode solved questions
 | [0027-remove-element](https://github.com/Naushil7/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naushil7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0283-move-zeroes) |
+| [1019-squares-of-a-sorted-array](https://github.com/Naushil7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Naushil7/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode solved questions
 | [0242-valid-anagram](https://github.com/Naushil7/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Naushil7/LeetCode/tree/master/0389-find-the-difference) |
 | [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/Naushil7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Naushil7/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Naushil7/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## String Matching
