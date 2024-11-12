@@ -93,6 +93,7 @@ A collection of LeetCode solved questions
 | [0073-set-matrix-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Naushil7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Naushil7/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Naushil7/LeetCode/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/Naushil7/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/Naushil7/LeetCode/tree/master/0932-monotonic-array) |
