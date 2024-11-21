@@ -101,6 +101,7 @@ A collection of LeetCode solved questions
 | [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naushil7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Naushil7/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Naushil7/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Naushil7/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Naushil7/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Naushil7/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
