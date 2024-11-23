@@ -101,6 +101,7 @@ A collection of LeetCode solved questions
 | [0941-sort-array-by-parity](https://github.com/Naushil7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naushil7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/Naushil7/LeetCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Naushil7/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Naushil7/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Naushil7/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -161,6 +162,7 @@ A collection of LeetCode solved questions
 | [0941-sort-array-by-parity](https://github.com/Naushil7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naushil7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/Naushil7/LeetCode/tree/master/1137-height-checker) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Naushil7/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Naushil7/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## String Matching
@@ -222,4 +224,8 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Naushil7/LeetCode/tree/master/0035-search-insert-position) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Naushil7/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
