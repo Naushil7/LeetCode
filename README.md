@@ -97,6 +97,7 @@ A collection of LeetCode solved questions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Naushil7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Naushil7/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Naushil7/LeetCode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/Naushil7/LeetCode/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Naushil7/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/Naushil7/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Naushil7/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -230,4 +231,8 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Naushil7/LeetCode/tree/master/1137-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Naushil7/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
