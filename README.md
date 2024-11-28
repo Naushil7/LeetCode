@@ -98,6 +98,7 @@ A collection of LeetCode solved questions
 | [0485-max-consecutive-ones](https://github.com/Naushil7/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Naushil7/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Naushil7/LeetCode/tree/master/0724-find-pivot-index) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Naushil7/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0890-lemonade-change](https://github.com/Naushil7/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/Naushil7/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Naushil7/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -162,6 +163,7 @@ A collection of LeetCode solved questions
 | [0217-contains-duplicate](https://github.com/Naushil7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Naushil7/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Naushil7/LeetCode/tree/master/0389-find-the-difference) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Naushil7/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/Naushil7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naushil7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
