@@ -96,6 +96,7 @@ A collection of LeetCode solved questions
 | [0283-move-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Naushil7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Naushil7/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/Naushil7/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Naushil7/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Naushil7/LeetCode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Naushil7/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -189,6 +190,7 @@ A collection of LeetCode solved questions
 | [0043-multiply-strings](https://github.com/Naushil7/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Naushil7/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Naushil7/LeetCode/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/Naushil7/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Naushil7/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Naushil7/LeetCode/tree/master/0682-baseball-game) |
 | [1119-robot-bounded-in-circle](https://github.com/Naushil7/LeetCode/tree/master/1119-robot-bounded-in-circle) |
@@ -198,6 +200,7 @@ A collection of LeetCode solved questions
 | ------- |
 | [0054-spiral-matrix](https://github.com/Naushil7/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/Naushil7/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Naushil7/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/Naushil7/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Naushil7/LeetCode/tree/master/1791-richest-customer-wealth) |
