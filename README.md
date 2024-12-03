@@ -138,6 +138,7 @@ A collection of LeetCode solved questions
 | [0058-length-of-last-word](https://github.com/Naushil7/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Naushil7/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Naushil7/LeetCode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Naushil7/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Naushil7/LeetCode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Naushil7/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/Naushil7/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -150,6 +151,7 @@ A collection of LeetCode solved questions
 | [0027-remove-element](https://github.com/Naushil7/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naushil7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Naushil7/LeetCode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/Naushil7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naushil7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Naushil7/LeetCode/tree/master/1168-duplicate-zeros) |
