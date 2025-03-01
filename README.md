@@ -93,6 +93,7 @@ A collection of LeetCode solved questions
 | [0066-plus-one](https://github.com/Naushil7/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Naushil7/LeetCode/tree/master/0118-pascals-triangle) |
+| [0209-minimum-size-subarray-sum](https://github.com/Naushil7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Naushil7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Naushil7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Naushil7/LeetCode/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Naushil7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -242,9 +244,14 @@ A collection of LeetCode solved questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Naushil7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Naushil7/LeetCode/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Naushil7/LeetCode/tree/master/0118-pascals-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Naushil7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
