@@ -100,6 +100,7 @@ A collection of LeetCode solved questions
 | [0209-minimum-size-subarray-sum](https://github.com/Naushil7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Naushil7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Naushil7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Naushil7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Naushil7/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Naushil7/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -130,6 +131,7 @@ A collection of LeetCode solved questions
 | [0073-set-matrix-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Naushil7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Naushil7/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Naushil7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Naushil7/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Naushil7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Naushil7/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -161,6 +163,7 @@ A collection of LeetCode solved questions
 | [0189-rotate-array](https://github.com/Naushil7/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Naushil7/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Naushil7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Naushil7/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/Naushil7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naushil7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -177,6 +180,7 @@ A collection of LeetCode solved questions
 | ------- |
 | [0217-contains-duplicate](https://github.com/Naushil7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Naushil7/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Naushil7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Naushil7/LeetCode/tree/master/0389-find-the-difference) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Naushil7/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/Naushil7/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -248,6 +252,7 @@ A collection of LeetCode solved questions
 | ------- |
 | [0035-search-insert-position](https://github.com/Naushil7/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naushil7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Naushil7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting Sort
 |  |
 | ------- |
