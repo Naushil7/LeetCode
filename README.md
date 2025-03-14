@@ -240,6 +240,7 @@ A collection of LeetCode solved questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Naushil7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0838-design-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0838-design-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -263,4 +264,8 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Naushil7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
