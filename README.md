@@ -77,6 +77,7 @@ A collection of LeetCode solved questions
 | [0066-plus-one](https://github.com/Naushil7/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Naushil7/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Naushil7/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Naushil7/LeetCode/tree/master/0202-happy-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/Naushil7/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Naushil7/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -130,6 +131,7 @@ A collection of LeetCode solved questions
 | [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Naushil7/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Naushil7/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Naushil7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Naushil7/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Naushil7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -163,6 +165,7 @@ A collection of LeetCode solved questions
 | [0141-linked-list-cycle](https://github.com/Naushil7/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Naushil7/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Naushil7/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Naushil7/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Naushil7/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Naushil7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
