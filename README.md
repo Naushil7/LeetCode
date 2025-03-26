@@ -244,6 +244,7 @@ A collection of LeetCode solved questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Naushil7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Naushil7/LeetCode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Naushil7/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Trie
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode solved questions
 | [0021-merge-two-sorted-lists](https://github.com/Naushil7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Naushil7/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Naushil7/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/Naushil7/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0838-design-linked-list) |
 ## Binary Search
