@@ -259,6 +259,7 @@ A collection of LeetCode solved questions
 | [0142-linked-list-cycle-ii](https://github.com/Naushil7/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Naushil7/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0838-design-linked-list) |
 ## Binary Search
 |  |
