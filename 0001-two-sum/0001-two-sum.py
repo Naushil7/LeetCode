@@ -1,22 +1,39 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # n = len(nums)
-        # for i in range(n-1):
-        #     for j in range(i+1, n):
-        #         if nums[i] + nums[j] == target:
-        #             return [i,j]
+        # Wrong Index as sorting happens
+        # result = 0
+        # result_val = []
+
+        # start = 0
+        # end = len(nums) - 1
+
+        # nums.sort()
+
+        # while start <= end:
+        #     result = nums[start] + nums[end]
+        #     if result == target:
+        #         result_val.append(start)
+        #         result_val.append(end)                
+        #         return result_val
+        #     elif result > target:
+        #         end -= 1
+        #     else:
+        #         start += 1
+
         # return []
+
         hashmap = {}
-        for i in range(len(nums)):
-            hashmap[nums[i]] = i
-            # print(hashmap)
-        
-        for i in range(len(nums)):
-            complement = target - nums[i]
-            if complement in hashmap and hashmap[complement] != i:
-                return [i, hashmap[complement]]
-        
+
+        for val in range(len(nums)):
+            hashmap[nums[val]] = val
+
+        print(hashmap)
+
+        for val in range(len(nums)):
+            remainder = target - nums[val]
+            if remainder in hashmap and hashmap[remainder] != val:
+                return [val, hashmap[remainder]]
+
+
         return []
 
-
-        
