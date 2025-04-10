@@ -15,36 +15,27 @@ class Solution:
         res = 0
 
         while end >= start:
-            # print((end-1) != (len(s) - 1))
             if end > 0 and s[end - 1] == 'C' and s[end] == 'D' :
                 res += 400
                 end -= 2
-                print(res, '1')
             elif end > 0 and s[end - 1] == 'C' and s[end] == 'M':
                 print(res, '2.1', end)
                 res += 900
                 end -= 2
-                print(res, '2.2', end)
             elif end > 0 and s[end - 1] == 'X' and s[end] == 'L':
                 res += 40
                 end -= 2
-                print(res, '3')
             elif end > 0 and s[end - 1] == 'X' and s[end] == 'C':
                 res += 90
                 end -= 2
-                print(res, '4')
             elif end > 0 and s[end - 1] == 'I' and s[end] == 'V':
                 res += 4
                 end -= 2
-                print(res, '5')
             elif end > 0 and s[end - 1] == 'I' and s[end] == 'X':
                 res += 9
                 end -= 2
-                print(res, '6')
             else:
-                print(end)
                 res += hashmap[s[end]]
                 end -= 1
-                print(res, '7')
 
         return res
