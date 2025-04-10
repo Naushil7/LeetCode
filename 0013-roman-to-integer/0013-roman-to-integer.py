@@ -1,68 +1,50 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        s = s.upper()
-        st = len(s)
-        roman = 0
+        hashmap={
+            'I': 1,
+            'V': 5,
+            'X': 10,
+            'L': 50,
+            'C': 100,
+            'D': 500,
+            'M': 1000
+        }
 
-        for i in range (st):
-            if i > 0:
-                if s[i] == "I":
-                    roman += 1
+        start = 0
+        end = len(s) - 1
+        res = 0
 
-                elif s[i] == "V":
-                    if s[i-1] == "I":
-                        roman += 3
-                    else:
-                        roman += 5
-
-                elif s[i] == "X":
-                    if s[i-1] == "I":
-                        roman += 8
-                    else:
-                        roman += 10
-
-                elif s[i] == "L":
-                    if s[i-1] == "X":
-                        roman += 30
-                    else:
-                        roman += 50
-
-                elif s[i] == "C":
-                    if s[i-1] == "X":
-                        roman += 80
-                    else:
-                        roman += 100 
-
-                elif s[i] == "D":
-                    if s[i-1] == "C":
-                        roman += 300
-                    else:
-                        roman += 500
-
-                elif s[i] == "M":
-                    if s[i-1] == "C":
-                        roman += 800
-                    else:
-                        roman += 1000
+        while end >= start:
+            # print((end-1) != (len(s) - 1))
+            if end > 0 and s[end - 1] == 'C' and s[end] == 'D' :
+                res += 400
+                end -= 2
+                print(res, '1')
+            elif end > 0 and s[end - 1] == 'C' and s[end] == 'M':
+                print(res, '2.1', end)
+                res += 900
+                end -= 2
+                print(res, '2.2', end)
+            elif end > 0 and s[end - 1] == 'X' and s[end] == 'L':
+                res += 40
+                end -= 2
+                print(res, '3')
+            elif end > 0 and s[end - 1] == 'X' and s[end] == 'C':
+                res += 90
+                end -= 2
+                print(res, '4')
+            elif end > 0 and s[end - 1] == 'I' and s[end] == 'V':
+                res += 4
+                end -= 2
+                print(res, '5')
+            elif end > 0 and s[end - 1] == 'I' and s[end] == 'X':
+                res += 9
+                end -= 2
+                print(res, '6')
             else:
-                if s[i] == "I":
-                    roman += 1
+                print(end)
+                res += hashmap[s[end]]
+                end -= 1
+                print(res, '7')
 
-                elif s[i] == "V":
-                    roman += 5
-
-                elif s[i] == "X":
-                    roman += 10
-
-                elif s[i] == "L":
-                    roman += 50
-
-                elif s[i] == "C":
-                    roman += 100 
-
-                elif s[i] == "D":
-                    roman += 500
-
-                elif s[i] == "M":
-                    roman += 1000
-        return roman
+        return res
