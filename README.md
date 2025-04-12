@@ -96,6 +96,7 @@ A collection of LeetCode solved questions
 | [0073-set-matrix-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Naushil7/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Naushil7/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Naushil7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Naushil7/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Naushil7/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naushil7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -283,6 +284,7 @@ A collection of LeetCode solved questions
 | ------- |
 | [0118-pascals-triangle](https://github.com/Naushil7/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Naushil7/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Naushil7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
 | ------- |
