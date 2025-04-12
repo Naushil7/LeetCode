@@ -3,8 +3,8 @@ class Solution:
         
         res = [1]
         
-        if rowIndex == 0:
-            return res 
+        # if rowIndex == 0:
+        #     return res 
 
         for i in range(rowIndex):
             next_row = [0] * (len(res)+1)
@@ -14,6 +14,8 @@ class Solution:
             res = next_row
             
         return res
+
+
             
         
         
