@@ -89,6 +89,7 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naushil7/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Naushil7/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Naushil7/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Naushil7/LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Naushil7/LeetCode/tree/master/0054-spiral-matrix) |
@@ -163,6 +164,7 @@ A collection of LeetCode solved questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Naushil7/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Naushil7/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Naushil7/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naushil7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -188,6 +190,7 @@ A collection of LeetCode solved questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Naushil7/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Naushil7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Naushil7/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Naushil7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
