@@ -1,25 +1,24 @@
-class Solution(object):
-    def replaceElements(self, arr):
-        """
-        :type arr: List[int]
-        :rtype: List[int]
-        """
-        # for i in range(len(arr)):
-        #     if i == len(arr)-1:
-        #         arr[i] = -1
-        #     elif i == len(arr)-2:
-        #         arr[i] = arr[i+1]
-        #     else:  
-        #         arr[i] = max(arr[i+1:])
-        
-        i = len(arr) - 1
-        max_val = -1     
+class Solution:
+    def replaceElements(self, arr: List[int]) -> List[int]:
+        # start = 0
+        # end = len(arr) - 1
 
-        while i >= 0:
-            current = arr[i] 
-            arr[i] = max_val 
-            max_val = max(max_val, current)  
-            i -= 1 
+        # while start < end:
+        #     temp_1 = 0
+        #     temp_2 = max(arr[start+1:]) 
+        #     temp_1 = max(temp_1, temp_2)
+        #     arr[start] = temp_1
+        #     start += 1
+
+        # if start == end:
+        #     arr[end] = -1
+
+        # return arr
+        max_so_far = -1
+
+        for i in range(len(arr)-1, -1, -1):
+            current = arr[i]
+            arr[i] = max_so_far
+            max_so_far = max(max_so_far, current)
 
         return arr
-        
