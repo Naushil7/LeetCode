@@ -174,6 +174,7 @@ A collection of LeetCode solved questions
 | [0151-reverse-words-in-a-string](https://github.com/Naushil7/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Naushil7/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Naushil7/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Naushil7/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Naushil7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -217,6 +218,7 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Naushil7/LeetCode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Naushil7/LeetCode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode solved questions
 | [0050-powx-n](https://github.com/Naushil7/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Naushil7/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode solved questions
 | [0142-linked-list-cycle-ii](https://github.com/Naushil7/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Naushil7/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0838-design-linked-list) |
 ## Binary Search
