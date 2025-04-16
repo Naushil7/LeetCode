@@ -78,6 +78,7 @@ A collection of LeetCode solved questions
 | [0067-add-binary](https://github.com/Naushil7/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Naushil7/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Naushil7/LeetCode/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/Naushil7/LeetCode/tree/master/0326-power-of-three) |
 | [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/Naushil7/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Naushil7/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -258,6 +259,7 @@ A collection of LeetCode solved questions
 | [0203-remove-linked-list-elements](https://github.com/Naushil7/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Naushil7/LeetCode/tree/master/0326-power-of-three) |
 ## Trie
 |  |
 | ------- |
