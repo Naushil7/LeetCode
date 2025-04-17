@@ -19,6 +19,6 @@ class Solution:
                 head = nxt
 
             prev = cur
-            cur = cur.next\
+            cur = cur.next
 
         return head
