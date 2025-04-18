@@ -307,4 +307,16 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0838-design-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Naushil7/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Naushil7/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Naushil7/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
