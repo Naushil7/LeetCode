@@ -101,6 +101,7 @@ A collection of LeetCode solved questions
 | [0119-pascals-triangle-ii](https://github.com/Naushil7/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naushil7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Naushil7/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naushil7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Naushil7/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naushil7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Naushil7/LeetCode/tree/master/0217-contains-duplicate) |
@@ -174,6 +175,7 @@ A collection of LeetCode solved questions
 | [0141-linked-list-cycle](https://github.com/Naushil7/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Naushil7/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Naushil7/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naushil7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Naushil7/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Naushil7/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Naushil7/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -285,6 +287,7 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Naushil7/LeetCode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naushil7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naushil7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Naushil7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting Sort
