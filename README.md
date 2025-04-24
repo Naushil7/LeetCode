@@ -118,6 +118,7 @@ A collection of LeetCode solved questions
 | [0941-sort-array-by-parity](https://github.com/Naushil7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naushil7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/Naushil7/LeetCode/tree/master/1036-rotting-oranges) |
 | [1137-height-checker](https://github.com/Naushil7/LeetCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Naushil7/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Naushil7/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -241,6 +242,7 @@ A collection of LeetCode solved questions
 | [0054-spiral-matrix](https://github.com/Naushil7/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Naushil7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Naushil7/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1036-rotting-oranges](https://github.com/Naushil7/LeetCode/tree/master/1036-rotting-oranges) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Naushil7/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/Naushil7/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Naushil7/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -325,4 +327,8 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Naushil7/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Naushil7/LeetCode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
