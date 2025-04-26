@@ -82,6 +82,7 @@ A collection of LeetCode solved questions
 | [0326-power-of-three](https://github.com/Naushil7/LeetCode/tree/master/0326-power-of-three) |
 | [1018-largest-perimeter-triangle](https://github.com/Naushil7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/Naushil7/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1236-n-th-tribonacci-number](https://github.com/Naushil7/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Naushil7/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Naushil7/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Naushil7/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -307,6 +308,7 @@ A collection of LeetCode solved questions
 | [0118-pascals-triangle](https://github.com/Naushil7/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Naushil7/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naushil7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1236-n-th-tribonacci-number](https://github.com/Naushil7/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -331,4 +333,8 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Naushil7/LeetCode/tree/master/1036-rotting-oranges) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Naushil7/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
