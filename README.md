@@ -75,6 +75,7 @@ A collection of LeetCode solved questions
 | [0013-roman-to-integer](https://github.com/Naushil7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Naushil7/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Naushil7/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Naushil7/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Naushil7/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Naushil7/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Naushil7/LeetCode/tree/master/0189-rotate-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode solved questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Naushil7/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Naushil7/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Naushil7/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naushil7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -337,4 +339,8 @@ A collection of LeetCode solved questions
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/Naushil7/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Naushil7/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
